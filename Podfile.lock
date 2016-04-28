@@ -1,0 +1,15 @@
+PODS:
+  - Expecta (1.0.5)
+  - Google-Mobile-Ads-SDK (7.5.2)
+
+DEPENDENCIES:
+  - Expecta
+  - Google-Mobile-Ads-SDK (~> 7.5.0)
+
+SPEC CHECKSUMS:
+  Expecta: e1c022fcd33910b6be89c291d2775b3fe27a89fe
+  Google-Mobile-Ads-SDK: 24a8ddfc0bcfec281960c5d88f75327df0d86b00
+
+PODFILE CHECKSUM: 696d1871182ba1205871808a7b7e2c922a845ec9
+
+COCOAPODS: 1.0.0.beta.8
