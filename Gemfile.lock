@@ -1,7 +1,7 @@
 GIT
   remote: git://github.com/Ruenzuo/CocoaPods.git
-  revision: 09b579e3caa2ad674319fe0340e9c8471fdd4e03
-  tag: 1.0.0.beta.8
+  revision: 05d2cc9f703fbaf26be092362c505190eb41b11b
+  branch: revert_58a5c04
   specs:
     cocoapods (1.0.0.beta.8)
       activesupport (>= 4.0.2)
